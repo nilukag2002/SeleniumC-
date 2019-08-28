@@ -1,0 +1,13 @@
+Release Note: Unirest API Automation Project
+
+1) Change the path for the "data.xlsx" according to your project folder.
+2) Explanation for the sheets in the "data.xlsx" file.
+
+RequestURLs: The URLs with respect to the main API requests GET, CRETAE, PUT, and DELATE.
+GET: Contains the response parameters for assertion.
+CREATE_Request: Request parameters for create request.
+CREATE_Response: Response parameters for assertion of create request response.
+PUT_Request: Request parameters for update request.
+PUT_Response: Response parameters for assertion of update request response.
+DELETE_Response: Response parameter for assertion of delete request.
+
